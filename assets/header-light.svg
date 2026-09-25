@@ -1,34 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Aegis — Security research. Practical tools.</title>
-  <desc id="desc">A light paper and green banner with an architectural A monogram and a subtle technical grid.</desc>
-  <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#CFDCD7"/>
-    </pattern>
-    <clipPath id="frame"><rect width="1200" height="380" rx="18"/></clipPath>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1200" height="380" fill="#F3F7F5"/>
-    <rect x="732" width="468" height="380" fill="url(#grid)"/>
-    <path d="M738 0V380" stroke="#D5E1DC"/>
-    <path d="M0 0H1200" stroke="#12816A" stroke-width="6"/>
-    <path d="M68 52H88" stroke="#12816A" stroke-width="3"/>
-    <text x="101" y="58" fill="#586E65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2.8">AEG1SX / SECURITY RESEARCH</text>
-    <text x="62" y="209" fill="#162D24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="120" font-weight="700" letter-spacing="-5">Aegis<tspan fill="#12816A">.</tspan></text>
-    <text x="68" y="261" fill="#4E665B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" letter-spacing="-.3">Security research. Practical tools.</text>
-    <path d="M68 302H680" stroke="#D5E1DC"/>
-    <text x="68" y="338" fill="#557B68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.2">SOURCE / API / CLOUD</text>
-    <g transform="translate(967 180)">
-      <circle r="129" stroke="#CFDCD7"/>
-      <circle r="103" stroke="#CFDCD7" stroke-dasharray="3 9"/>
-      <path d="M0-147V-116M0 116V147M-147 0H-116M116 0H147" stroke="#7FA391"/>
-      <path d="M0-88 76-44V44L0 88-76 44V-44Z" fill="#E2EEE6" stroke="#81A78F" stroke-width="1.5"/>
-      <path d="M-46 45 0-57 46 45H19L0 0-19 45Z" fill="#12816A"/>
-      <path d="M-18 45 0 7 18 45Z" fill="#F3F7F5"/>
-      <path d="M-25 62H25" stroke="#12816A" stroke-width="3"/>
-      <circle cx="111.7" cy="-64.5" r="4" fill="#12816A"/>
-      <circle cx="-111.7" cy="64.5" r="3" fill="#12816A"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Aegis — Security researcher</title>
+  <desc id="desc">David Han, Aeg1sx. Security research across web, applications, tools, and hardware.</desc>
+  <rect width="1200" height="300" rx="8" fill="#F3F6F3"/>
+  <path d="M0 1H1200" stroke="#227960" stroke-width="2"/>
+  <path d="M752 44V256" stroke="#CFDCD4"/>
+  <text x="56" y="56" fill="#5C7265" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2.6">DAVID HAN / AEG1SX</text>
+  <text x="49" y="177" fill="#1C3127" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="112" font-weight="600" letter-spacing="-5">AEGIS</text>
+  <text x="57" y="233" fill="#227960" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="21" letter-spacing="3.8">SECURITY RESEARCHER</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g fill="#5C7265" font-size="12" letter-spacing="1">
+      <text x="805" y="82">01</text>
+      <text x="805" y="136">02</text>
+      <text x="805" y="190">03</text>
+      <text x="805" y="244">04</text>
     </g>
-    <text x="967" y="348" fill="#557B68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="3" text-anchor="middle">RESEARCH / BUILD / VERIFY</text>
+    <g fill="#354E40" font-size="22" letter-spacing="2">
+      <text x="851" y="84">WEB</text>
+      <text x="851" y="138">APPLICATIONS</text>
+      <text x="851" y="192">TOOLS</text>
+      <text x="851" y="246">HARDWARE</text>
+    </g>
   </g>
+  <path d="M805 104H1144M805 158H1144M805 212H1144" stroke="#D9E3DC"/>
 </svg>
